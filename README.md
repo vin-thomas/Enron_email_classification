@@ -15,8 +15,8 @@ Gradient Descent 0.81
 SVC 0.80
 LR 0.88
 
-# LSTM_Enron_final.ipynb
-LSTM was applied on the text data and the same was concatenated with the other categorical data. The resulting accuracy on the test sample was 0.63
+# LSTM_Enron_final_ver2.ipynb
+LSTM was applied on the text data and the same was concatenated with the other categorical data. The resulting accuracy on the test sample was 0.71
 
 
 # Enron_bert_13.ipynb
